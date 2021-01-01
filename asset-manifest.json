@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-wanderlust/static/css/main.15f47792.chunk.css",
-    "main.js": "/react-wanderlust/static/js/main.81434082.chunk.js",
-    "main.js.map": "/react-wanderlust/static/js/main.81434082.chunk.js.map",
+    "main.js": "/react-wanderlust/static/js/main.128e3646.chunk.js",
+    "main.js.map": "/react-wanderlust/static/js/main.128e3646.chunk.js.map",
     "runtime-main.js": "/react-wanderlust/static/js/runtime-main.b312d803.js",
     "runtime-main.js.map": "/react-wanderlust/static/js/runtime-main.b312d803.js.map",
     "static/js/2.37e7049b.chunk.js": "/react-wanderlust/static/js/2.37e7049b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b312d803.js",
     "static/js/2.37e7049b.chunk.js",
     "static/css/main.15f47792.chunk.css",
-    "static/js/main.81434082.chunk.js"
+    "static/js/main.128e3646.chunk.js"
   ]
 }
